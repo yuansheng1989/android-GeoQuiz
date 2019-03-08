@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">1. Canberra is the capital of Australia.</string>
+    <string name="question_oceans">2. The Pacific Ocean is larger than
+        the Atlantic Ocean.</string>
+    <string name="question_mideast">3. The Suez Canal connects the Red Sea
+        and the Indian Ocean.</string>
+    <string name="question_africa">4. The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">5. The Amazon River is the longest river
+        in the Americas.</string>
+    <string name="question_asia">6. Lake Baikal is the world\'s oldest and deepest
+        freshwater lake.</string>
+    <string name="hint_australia">1. A resident of Canberra is known as a Canberran.</string>
+    <string name="hint_oceans">2. There are more fish in the Pacific Ocean.</string>
+    <string name="hint_mideast">3. The Suez Canal connects two seas.</string>
+    <string name="hint_africa">4. Ask Omar for the answer.</string>
+    <string name="hint_americas">5. You can buy many books on the Amazon website.</string>
+    <string name="hint_asia">6. Lake Ontario is one of the five Great Lakes.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="warning_text">Are you sure you want to cheat?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="student_name">Yuansheng Lu</string>
+    <string name="total_marks">TOTAL MARKS:</string>
+    <string name="total_marks_value">0</string>
+    <string name="questions_completed">QUESTIONS COMPLETED:</string>
+    <string name="questions_completed_value">0</string>
+    <string name="hint_button">HINT!</string>
+    <string name="prev_button">PREV</string>
+    <string name="warning_text2">Are you sure you want a hint?</string>
+    <string name="hint">Hint</string>
+    <string name="show_hint">SHOW HINT</string>
+    <string name="exit">EXIT</string>
+    <string name="cheat">Answer</string>
+    <string name="complete_toast">Question Completed!</string>
+    <string name="correct_unhinted_toast">+2 Marks</string>
+    <string name="correct_hinted_toast">+1 Marks</string>
+    <string name="incorrect_hinted_toast">-2 Marks</string>
+    <string name="incorrect_unhinted_toast">-1 Marks</string>
+</resources>
